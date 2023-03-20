@@ -1,0 +1,10 @@
+{
+    "require": {
+        "pear2/cache_shm": "^0.2.0",
+        "pear2/net_routeros": "dev-develop@dev",
+        "pear2/net_transmitter": "dev-develop@dev",
+        "pear2/console_commandline": "^0.2.3",
+        "pear2/console_color": "^1.0"
+    }
+   
+}
